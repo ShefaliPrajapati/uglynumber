@@ -1,5 +1,7 @@
 # uglynumber
 Find Nth number is ugly or not and palindrome num
+
+-----------------------------------------
 Enter the number for find N(th) ugly number.
 
 And 
